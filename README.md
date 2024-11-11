@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
   <body>
-    <title>MY PORTFOLIO</title>
     <h1>PERSONAL DETAILS<br></h1> 
     <p1>NAME: Miriam Mugure Wangaruro<br></p1>
     <p2>DEPARTMENT: ICT<br></p2>
